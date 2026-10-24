@@ -1,0 +1,6 @@
+~$*
+*.docx
+Data/
+__pycache__/
+.env
+Test/
