@@ -55,4 +55,4 @@ for ticker in list_of_tickers:
     print(f"EV/EBITDA: {evEbitda:.2f}" if evEbitda is not None else "EV/EBITDA: N/A")
     print(f"Market Cap: {MarketCapInSEK: .2f} in SEK converted from {data.get('currency', 'N/A')} \n")
 
-print("helloworld")
+
